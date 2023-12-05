@@ -12,7 +12,7 @@ pip install -r reqirements.txt
 - 启动
 
 ```
-python nps.py
+python nps未授权.py
 ```
 
 - 浏览器挂上代理：127.0.0.1:9090
