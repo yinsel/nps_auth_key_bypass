@@ -19,4 +19,4 @@ python nps未授权.py
 
 - 访问 [mitm.it](http://mitm.it/) 安装证书，选择Other Platforms下载证书，更改der后缀，双击安装，以便支持HTTPS拦截修改。
 
-- 访问一次目标nps，获取Cookie，再次刷新访问即可。
+- 访问目标nps，即可直接免登录操作。
